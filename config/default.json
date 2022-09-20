@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://pgagrwl:pgagrwl@cluster0.1jh9l.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://pgagrwl:pgagrwl@cluster0.1jh9l.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "secret@123"
 }
